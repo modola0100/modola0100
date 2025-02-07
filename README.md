@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/modola0100/modola0100/output/snake.svg" alt="Snake animation" />
-
-###
