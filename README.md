@@ -39,20 +39,8 @@
 
 ---
 
-<!-- عني -->
-### 👨‍💻 About Me
 
-```yaml
-🙋‍♂️ Name: Mohamed Adel
-Role: Flutter Developer 🚀
-Languages: Dart, C++, Python
-Currently: Building beautiful apps with Flutter
-Learning: Clean Architecture, Firebase, Backend APIs
-Hobbies: UI/UX, Open Source, Problem Solving 🧠
-```
-
----
-
+ر👩‍💻  About Me</h3>  <p align="left"> 🔭 I’m working as a Flutter Developer, building cross-platform apps with clean, efficient code.<br><br> 📚 I’m currently learning advanced Flutter architecture, state management, and exploring backend integration to deliver full-stack solutions.<br><br> ⚡ In my free time, I enjoy contributing to open-source projects, exploring new tech trends, and improving my problem-solving skills. </p>  ###
 <!-- الأدوات واللغات -->
 ### 🛠 Language and Tools
 
