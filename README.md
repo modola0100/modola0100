@@ -38,9 +38,20 @@
 <h1 align="center">hey there 👋</h1>
 
 ---
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+  🔭 I’m working as a <strong>Flutter Developer</strong>, building beautiful, cross-platform mobile apps with clean, maintainable, and efficient code.<br><br>
+  
+  📚 Currently diving deeper into advanced Flutter architecture, state management (like BLoC and Riverpod), and backend integration to deliver complete full-stack solutions.<br><br>
+  
+  ⚙️ I specialize in crafting responsive UI, implementing REST APIs & Firebase features, and applying Clean Architecture principles.<br><br>
+  
+  ⚡ In my free time, I contribute to open-source projects, experiment with new tech trends, and constantly sharpen my problem-solving and debugging skills.
+</p>
 
 
-ر👩‍💻  About Me</h3>  <p align="left"> 🔭 I’m working as a Flutter Developer, building cross-platform apps with clean, efficient code.<br><br> 📚 I’m currently learning advanced Flutter architecture, state management, and exploring backend integration to deliver full-stack solutions.<br><br> ⚡ In my free time, I enjoy contributing to open-source projects, exploring new tech trends, and improving my problem-solving skills. </p>  ###
+
 <!-- الأدوات واللغات -->
 ### 🛠 Language and Tools
 
