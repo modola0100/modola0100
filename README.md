@@ -1,3 +1,4 @@
+
 <!-- 👋 الاسم المتحرك بالأنيميشن -->
 <p align="center">
   <a href="https://github.com/modola0100">
@@ -48,9 +49,43 @@ Languages: Dart, C++, Python
 Currently: Building beautiful apps with Flutter
 Learning: Clean Architecture, Firebase, Backend APIs
 Hobbies: UI/UX, Open Source, Problem Solving 🧠
+```
+
+---
+
 <!-- الأدوات واللغات -->
-🛠 Language and Tools
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="25" height="25" alt="flutter logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="25" height="25" alt="dart logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" height="25" alt="cplusplus logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25" alt="python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="25" height="25" alt="androidstudio logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="25" height="25" alt="apple logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25" height="25" alt="figma logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25" alt="git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25" alt="github logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" height="25" alt="linkedin logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="25" height="25" alt="notion logo" /> </p>
+### 🛠 Language and Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="25" height="25" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="25" height="25" alt="dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" height="25" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="25" height="25" alt="androidstudio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="25" height="25" alt="apple logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25" height="25" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" height="25" alt="linkedin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="25" height="25" alt="notion logo" />
+</p>
+
+---
+
 <!-- الإحصائيات -->
-🔥 My Stats
-<div align="center"> <img src="https://streak-stats.demolab.com?user=modola0100&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div> <!-- عداد الزيارات --> <div align="center"> <img src="https://profile-counter.glitch.me/modola0100/count.svg?" /> </div> <!-- إحصائيات GitHub --> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=modola0100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=modola0100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div> ```
+### 🔥 My Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=modola0100&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+<!-- عداد الزيارات -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/modola0100/count.svg?" />
+</div>
+
+<!-- إحصائيات GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=modola0100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=modola0100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
