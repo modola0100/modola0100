@@ -43,7 +43,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-Name: Mohamed Adel
+🙋‍♂️ Name: Mohamed Adel
 Role: Flutter Developer 🚀
 Languages: Dart, C++, Python
 Currently: Building beautiful apps with Flutter
